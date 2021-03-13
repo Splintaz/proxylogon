@@ -1,4 +1,4 @@
-
+# Alleged creators: https://en.wikipedia.org/wiki/Hafnium_(group)
 import requests
 from urllib3.exceptions import InsecureRequestWarning
 import random
